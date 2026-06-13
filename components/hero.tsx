@@ -45,7 +45,7 @@ export function Hero() {
         >
           <div className="clip-diagonal overflow-hidden border border-accent-neon/50 shadow-[15px_15px_0_0_#d9ff00]">
             <Image
-              src="/mrsanga.png"
+              src="/porfolio//mrsanga.png"
               width={600}
               height={800}
               alt={`Portrait de ${profile.name}`}
